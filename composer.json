@@ -1,0 +1,19 @@
+{
+    "name": "api/streets",
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alerrandro Borges",
+            "email": "alerrandrokaton@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "slim/slim": "3.0"
+    }
+}

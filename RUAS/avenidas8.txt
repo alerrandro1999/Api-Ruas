@@ -1,0 +1,100 @@
+Rua P 3
+Rua P 4
+Rua P 5
+Rua P 6
+Rua P 7
+Rua P 8
+Rua P 9
+Rua P2
+Rua Padre Cícero
+Rua Padre Jorge
+Rua Padre Marciel
+Rua Pal Brasil
+Rua Palmeiras
+Rua Palmeres
+Rua Paraíba
+Rua Paraíso
+Rua Parintins
+Rua Paru
+Rua Pataxó
+Rua Pau Brasil
+Rua Pau d'Arco
+Rua Paulo Maranhão
+Rua Paysandú
+Rua Pedro Alvares Cabral
+Rua Pedro Miranda
+Rua Pequim
+Rua Pereira Sobrinho
+Rua Perimetral Leste
+Rua Perimetral Norte
+Rua Perimetral Oeste
+Rua Perimetral Sul
+Rua Pernabúco
+Rua Pero Vaz de Caminha
+Rua Peroba
+Rua Peru
+Rua Pierre Rafael de Fraga
+Rua Piquiá
+Rua Piripiri
+Rua Pirita
+Rua Pixiba
+Rua Porto Velho
+Rua Portugal
+Rua Presidente Costa e Silva
+Rua Primavera
+Rua Primeiro de Outubro
+Rua Princesa Diana
+Rua Prolongamento da Tomé de Souza
+Rua Purus
+Rua Q
+Rua Q 1
+Rua Q 2
+Rua Q 3
+Rua Q 4
+Rua Q 5
+Rua Q 6
+Rua Q 7
+Rua Q 8
+Rua Quarto
+Rua Quartzo
+Rua Quatorze
+Rua Quatro
+Rua Quilombo dos Palmares
+Rua Quinze
+Rua Quinze de Novembro
+Rua R 10
+Rua R 11
+Rua R 12
+Rua R 2
+Rua R 4
+Rua R 5
+Rua R 6
+Rua R 7
+Rua R 8
+Rua R 9
+Rua Raimundo Gonsalves Pimentel
+Rua Raul Seixas
+Rua Rei Davi
+Rua Renato Russo
+Rua Ribeirão Preto
+Rua Rikbatisa
+Rua Rio Abaeté
+Rua Rio Amapa
+Rua Rio Amapari
+Rua Rio Aporé
+Rua Rio Araguaia
+Rua Rio Azul
+Rua Rio Branco
+Rua Rio Canoas
+Rua Rio Canumã
+Rua Rio Capanema
+Rua Rio Capivari
+Rua Rio Caveiras
+Rua Rio Claro
+Rua Rio Congonhas
+Rua Rio da Mata Verde
+Rua Rio da Prata
+Rua Rio das Aguas Limpas
+Rua Rio das Pedras
+Rua Rio de Janeiro
+Rua Rio Diamante
